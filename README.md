@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development , Python , C++ , DSA...
 - 🌱 I’m currently learning and pursuing Bachelor's in Computer Science  
 - 💞️ I’m looking to collaborate Open-source projects related to AI, Web Development, or any innovative ideas you'd like to work on together!
-- 📫 How to reach me You can reach me on GitHub, or send me an email at kshradha@gmail.com
+- 📫 How to reach me You can reach me on GitHub, or send me an email at kshradha341@gmail.com
 - 😄 Pronouns: she/her !!
 - ⚡ Fun fact: I'm a coffee aficionado and love sketching !!  😄 
 
